@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LengthConverter</string>
+    <string-array name="length_units">
+        <item>Mét</item>        <!-- Meters -->
+        <item>Kilômét</item>    <!-- Kilometers -->
+        <item>Milimet</item>    <!-- Millimeters -->
+        <item>Dặm</item>        <!-- Miles -->
+        <item>Feet</item>       <!-- Feet -->
+    </string-array>
+</resources>
